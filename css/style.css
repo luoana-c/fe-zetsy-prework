@@ -43,3 +43,22 @@ h1 {
   border: 5px rgb(152,173,166) solid;
 }
 
+.style {
+    border-radius: 3px !important;
+    text-indent: 20px !important;
+    width: auto !important;
+    padding: 0px 4px 0px 0px !important;
+    text-align: center !important;
+    font: bold 11px/20px "Helvetica Neue", Helvetica, sans-serif !important;
+    color: rgb(255, 255, 255) !important;
+    background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zd…UsMS42ODYgMTQuNzMzLDEuNjg2IiBmaWxsPSIjYmQwODFjIj48L3BhdGg+PC9nPjwvc3ZnPg==) 3px 50% / 14px 14px no-repeat rgb(189, 8, 28) !important;
+    position: absolute !important;
+    opacity: 1 !important;
+    z-index: 8675309 !important;
+    display: none;
+    cursor: pointer !important;
+    border: none !important;
+    -webkit-font-smoothing: antialiased !important;
+    top: 118px;
+    left: 86px;
+}
