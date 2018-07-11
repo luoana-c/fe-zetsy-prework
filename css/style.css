@@ -35,6 +35,7 @@ footer {
 }
 
 h1 {
+  display: block;
   color: rgb(152,173,166);
   font-family: 'Baskerville', serif;
   font-size: 5em;
