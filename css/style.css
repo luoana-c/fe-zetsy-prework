@@ -1,7 +1,11 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-@font-face {}
+@font-face {
+  font-family: baskerville;
+  src: 
+}
+
 
 /*////////// Global Styles //////////*/
 
