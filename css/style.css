@@ -29,10 +29,6 @@ body {
 
 /* Write all remaining styles here */
 
-footer {
-  text-align: right;
-  font-family: 'Times New Roman', serif;
-}
 
 h1 {
   display: block;
@@ -70,3 +66,9 @@ p {
   border: 5px #6F7F7A solid;
   padding: 1px;
 } 
+
+footer {
+  text-align: right;
+  font-family: 'Times New Roman', serif;
+}
+
