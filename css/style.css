@@ -31,6 +31,6 @@ body {
 }
 
 footer {
-  align-content: right;
+  align-content: flex-end;
 }
 /* Write all remaining styles here */
