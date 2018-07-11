@@ -14,7 +14,7 @@ h1 {
   font-family: 'Baskerville', serif;
   font-size: 5em;
   font-weight: normal;
-  -webkit-margin-before:
+  -webkit-margin-before: 0.67em;
 }
 
 body {
