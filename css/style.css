@@ -9,6 +9,9 @@
 
 /*////////// Global Styles //////////*/
 
+header {
+  display: block;
+}
 
 body {
 	background: #F3EBE9;
