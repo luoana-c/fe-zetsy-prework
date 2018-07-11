@@ -30,4 +30,7 @@ body {
 	padding: 0 45px 20px;
 }
 
+footer {
+  align-content: right;
+}
 /* Write all remaining styles here */
