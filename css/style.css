@@ -62,3 +62,6 @@ p {
   
 }
 
+#press img:hover {
+  border: 5px #ccc solid;
+} 
